@@ -1,1 +1,1 @@
-# Distributed_Graphql_API
+HotChocolate distrubuted arch example using Fusion orchestration

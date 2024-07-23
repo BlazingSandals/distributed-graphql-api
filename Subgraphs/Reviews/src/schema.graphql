@@ -1,0 +1,12 @@
+﻿schema {
+  query: Query
+}
+
+type Query {
+  review: Review!
+}
+
+type Review {
+  id: Int!
+  name: String!
+}
